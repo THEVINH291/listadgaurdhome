@@ -692,8 +692,6 @@
 ||cdn.ads-flipp.com^
 ||ozbnagojbop.com^
 ||185.149.120.173^
-/^139\.45\.197\.2(4[0-9]|5[0-4]):/
-/^139\.45\.197\.2(4[0-9]|5[0-4])/
 ||lmj8i.pro^
 ||ytru4.pro^
 ||at.adtech.redventures.io^
@@ -715,7 +713,6 @@
 ||linkads.me^
 ||pushpad.xyz^
 ||huffson-delivery.com^
-
 ||oi.fapnado.xxx^
 ||oi.fapnow.xxx^
 ||oi.lesbianbliss.com^
