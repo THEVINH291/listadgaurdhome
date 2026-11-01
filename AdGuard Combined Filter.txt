@@ -1,47 +1,23 @@
-!
-! Title: Custom AdGuard DNS Filter + Ad Blocker Test Domains
-! Description: Danh sách kết hợp từ AdGuard DNS Filter (filter_1.txt) và các tên miền quảng cáo/theo dõi từ hình ảnh Ad Blocker Test.
-! Homepage: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-! Last modified: 2026-11-01
-!
-
-! =========================================================
-! PHẦN 1: CÁC TÊN MIỀN TRÍCH XUẤT TỪ HÌNH ẢNH CUNG CẤP
-! =========================================================
-
-! --- Amazon ---
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
-
-! --- Google Ads ---
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
-
-! --- Doubleclick.net ---
 ||stats.g.doubleclick.net^
 ||ad.doubleclick.net^
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
-
-! --- Adcolony ---
 ||ads30.adcolony.com^
 ||adc3-launch.adcolony.com^
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
-
-! --- Media.net ---
 ||static.media.net^
-
-! --- TikTok / ByteOversea ---
 ||ads.tiktok.com^
 ||log.byteoversea.com^
-
-! --- Yahoo ---
 ||ads.yahoo.com^
 ||analytics.yahoo.com^
 ||geo.yahoo.com^
@@ -51,21 +27,12 @@
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
-
-! --- Yandex ---
 ||extmaps-api.yandex.net^
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
 ||offerwall.yandex.net^
 ||adfox.yandex.ru^
-
-! =========================================================
-! PHẦN 2: DỮ LIỆU TỪ REPO ADGUARD (filter_1.txt)
-! =========================================================
-! Lưu ý: Tệp filter_1.txt gốc trên GitHub chứa hơn 50.000 dòng. 
-! Dưới đây là danh sách trích xuất trực tiếp từ đầu tệp filter_1.txt của AdGuard.
-
 ||taboola-display.com^
 ||goodpics.net^
 ||reflecting-nature.com^
